@@ -7,6 +7,7 @@
 [image4]: ./misc_images/DHDiagram.PNG
 [image5]: ./misc_images/theta1.PNG
 [image6]: ./misc_images/spong1.PNG
+[image7]: ./misc_images/failed1succes8.png
 
 ## Reqirementns of the [rubric](https://review.udacity.com/#!/rubrics/972/view) 
 ### The point will be addressed one by one. This is the culmination of 65 h of work on the project and a 42 h stop at Khan Academy to redo the linear algebra playlist
@@ -271,7 +272,7 @@ The results:
 
 Out of 9 runs 8 where succesful. 1 failed bt it was because the message sent by the motion planer was not in proper format:
 
-![End of run][failed1succes8]
+![End of run][image7]
 ##### Summary:
 
 A lot of time sweat and tears went into this. If I was not between jobs I would have not been able to do it.
