@@ -203,7 +203,7 @@ With WC position know we can go after theta1-3
 
 ##### Finding Theta 1 2 3
 
-Finding theta1 or the rotation around the base was easy.  There was an example given in the lecture for a RRP manipulator, and the theta1 is the same solve:
+Finding theta1 was taken from the lecture, it is simple to derive based on the projection on the ground:
 
 ```
 theta1 = atan2(wrist_y, wrist_x)
@@ -269,6 +269,9 @@ The results:
 [![Watch it work in super slow motion]](https://youtu.be/VlwgjotCvpM)
 
 
+Out of 9 runs 8 where succesful. 1 failed bt it was because the message sent by the motion planer was not in proper format:
+
+![End of run][failed1succes8]
 ##### Summary:
 
 A lot of time sweat and tears went into this. If I was not between jobs I would have not been able to do it.
