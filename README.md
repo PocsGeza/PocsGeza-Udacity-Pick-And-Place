@@ -209,7 +209,7 @@ Finding theta1 was taken from the lecture, it is simple to derive based on the p
 ```
 theta1 = atan2(wrist_y, wrist_x)
 ```
-The angles theta2 and theta3  are far from straight forward. The first clue I found was from a text book called "Robot Dynamics and Control" which helped me first visual the problem with this chart:
+The angles theta2 and theta3  are far from straight forward. The text book Robot Dynamics and Control helped me visualize the geometry:
 
 ![Theta2 & 3 First Chart][image6]
 
